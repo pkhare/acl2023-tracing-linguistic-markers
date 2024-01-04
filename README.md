@@ -1,6 +1,9 @@
 # acl2023-tracing-linguistic-markers
 Data and code for the paper "Tracing Linguistic Markers of Influence in a Large Online Organisation" at ACL 2023
 
+Authors - Prashant Khare, Ravi Shekhar, Mladen Karan, Stephen McQuistin, Colin Perkins, Ignacio Castro, Gareth Tyson, Patrick Healey, and Matthew Purver.
+URL: https://aclanthology.org/2023.acl-short.8
+
 Instructions to rerun the notebook (if you only want to read it you can skip to step 4):
 
 1. Unzip the contents of resources.zip (this will create several new folders alongside the "ACL work" folder)
